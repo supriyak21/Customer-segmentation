@@ -1,4 +1,3 @@
-Credit Card Customer Segmentation Analysis
 I have used data-driven techniques to segment credit card customers and develop targeted marketing strategies.
 
 Objective: Analyze 8,950 credit card customers to identify distinct segments and create actionable personas
