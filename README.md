@@ -1,4 +1,4 @@
-# 🏦 Customer Segmentation in Banking using Data-Driven Techniques
+# Customer Segmentation in Banking using Data-Driven Techniques
 
 I have used data-driven techniques to segment credit card customers and develop targeted marketing strategies.
 
