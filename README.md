@@ -1,22 +1,22 @@
 # 🏦 Customer Segmentation in Banking using Data-Driven Techniques
 
-> I have used data-driven techniques to segment credit card customers and develop targeted marketing strategies.
+I have used data-driven techniques to segment credit card customers and develop targeted marketing strategies.
 
 ---
 
-## 🎯 Objective  
+## Objective  
 Analyze **8,950 credit card customers** to identify distinct segments and create **actionable personas** for targeted marketing.
 
 ---
 
-## 🧠 Methodology  
+## Methodology  
 1. **K-Means Clustering**  
 2. **Principal Component Analysis (PCA)**  
 3. **Behavioral Pattern Analysis**
 
 ---
 
-## 💾 Data  
+## Data  
 Credit card usage data includes:  
 - **Balance**  
 - **Purchases**  
@@ -25,7 +25,7 @@ Credit card usage data includes:
 
 ---
 
-## 🔍 Key Components  
+## Key Components  
 
 ### 1️⃣ Data Preprocessing  
 - Cleaning data, handling missing values, and performing feature engineering  
@@ -53,7 +53,7 @@ Credit card usage data includes:
 
 ---
 
-## 📁 Repository Structure  
+## Repository Structure  
 
 | File/Folder | Description |
 |--------------|-------------|
@@ -65,13 +65,13 @@ Credit card usage data includes:
 
 ---
 
-## 📊 Tools & Libraries  
+## Tools & Libraries  
 - **Python**, **pandas**, **numpy**, **scikit-learn**, **matplotlib**, **seaborn**, **umap-learn**  
 - PowerPoint for presentation and persona visualization  
 
 ---
 
-## 🚀 Outcome  
+## Outcome  
 Identified **4 unique customer segments**, uncovering actionable insights to improve:  
 - **Customer retention**  
 - **Cross-selling opportunities**  
